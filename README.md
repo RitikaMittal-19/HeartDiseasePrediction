@@ -4,8 +4,8 @@
 ## Overview
 This project aims to predict the presence of heart disease using Machine Learning techniques on the complete **UCI Heart Disease Dataset (920 records)**. The model leverages data preprocessing, feature engineering, and hyperparameter optimization to achieve robust predictive performance.
 ## Contributors:
-- Archita Agrawal : https://www.linkedin.com/in/archita-agrawal-09b85b292/
 - Ritika Mittal : [https://www.linkedin.com/in/ritika-mittal-5454sr/](https://www.linkedin.com/in/ritika-mittal-5454sr)
+- Archita Agrawal : https://www.linkedin.com/in/archita-agrawal-09b85b292/
 - Jigyasa Arora : https://www.linkedin.com/in/jigyasa-arora-345b51292/
 
 ---
