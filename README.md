@@ -1,5 +1,6 @@
 # ❤️ Heart Disease Prediction using Optimized Random Forest
  📄 **Research Paper Accepted at the NIT Patna Conference 2026**
+ ![Project Banner](IMG_20260710_103541.jpg)
 ## Overview
 This project aims to predict the presence of heart disease using Machine Learning techniques on the complete **UCI Heart Disease Dataset (920 records)**. The model leverages data preprocessing, feature engineering, and hyperparameter optimization to achieve robust predictive performance.
 ## Contributors:
@@ -77,7 +78,7 @@ The following interaction features were created to improve model performance:
 The optimized Random Forest model achieved the best overall performance among the evaluated classifiers.
 
 ---
-
+ ![Project Banner](publication.png)
 ## Project Structure
 
 ```text
